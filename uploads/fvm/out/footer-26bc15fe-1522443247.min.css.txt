@@ -1,0 +1,3 @@
+PROCESSED on Wed, 04 Apr 2018 00:29:03 +0000
+/wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.css --- Debug: [advanced-responsive-video-embedder] File was opened from /home/lacuisinedev/dev.lacuisineus.com/wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.css ---
+PROCESSED from https://lacuisineus.com/you-need-this-thermoworks-thermometer/?no_cache=1

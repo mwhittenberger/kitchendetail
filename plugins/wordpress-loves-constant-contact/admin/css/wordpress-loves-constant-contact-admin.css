@@ -1,0 +1,48 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+.success-pre {
+    background-color: #DFF0D8;
+    border-color: #D6E9C6;
+}
+
+.failure-pre {
+    background-color: #F2DEDE;
+    border-color: #EED3D7;
+}
+
+.well {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.span6 {
+    flex: 0 1 50%;
+    align-self: flex-start;
+}
+
+.well .submit {
+    background: 0 0;
+    border: 0;
+    float: none !important;
+    padding: 0 !important;
+    margin: 0;
+}
+
+.well .control-group {
+    flex: 0 1 100%;
+}
+
+@media only screen and (max-width: 450px) {
+    .wplcc {
+        max-width: 295px;
+    }
+}
+

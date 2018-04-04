@@ -1,0 +1,10 @@
+PROCESSED on Fri, 30 Mar 2018 20:54:19 +0000
+/wp-content/plugins/google-captcha/css/gglcptch.css --- Debug: Fetched from transients cache with key fvm-cache-152244324727a91c64 ---
+/wp-content/plugins/instagram-feed/css/sb-instagram.min.css --- Debug: Fetched from transients cache with key fvm-cache-1522443247189e1f5b ---
+/wp-content/plugins/recipe-card/css/layout.css --- Debug: Fetched from transients cache with key fvm-cache-15224432479c261a77 ---
+/wp-content/plugins/simple-staff-list/public/css/simple-staff-list-public.css --- Debug: Fetched from transients cache with key fvm-cache-15224432479306265c ---
+/wp-content/plugins/wordfence/css/wordfenceBox.1521560560.css --- Debug: Fetched from transients cache with key fvm-cache-15224432474cf11e6a ---
+/wp-content/plugins/wp-facebook-login/public/css/facebook-login.css --- Debug: Fetched from transients cache with key fvm-cache-15224432471d56225c ---
+/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css --- Debug: Fetched from transients cache with key fvm-cache-1522443247d74f1e9c ---
+/wp-content/plugins/wp-social-sharing/static/socialshare.css --- Debug: Fetched from transients cache with key fvm-cache-15224432473b7f200f ---
+PROCESSED from https://lacuisineus.com/wp-content/themes/html5blank-stable/hover.css.map

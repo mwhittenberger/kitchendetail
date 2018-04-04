@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.ga_id, .gtm_id, .adwords_ecomm, .remarketing_id, .facebook_id, .bing_id, .specific1, .specific2, .specific3, .specific4, #click2, #click3, #click4 {
+   display: none;
+}
+
+textarea {
+   max-width: 400px;
+   width: 75%;
+   min-height: 100px;
+}
+
+fieldset {
+   margin-bottom: 20px;
+   border-bottom: 1px solid #c9c9c9;
+   padding-bottom: 20px;
+}
+
+label span {
+   float:left;
+   margin-right: 10px;
+}
